@@ -1,0 +1,146 @@
+/* Question 1 */
+
+#question1{
+    display: flex;
+    justify-content: end;
+}
+
+#question2{
+    display: flex;
+    justify-content: center;
+}
+
+#question3{
+    display: flex;
+    justify-content: space-around;
+}
+
+#question4{
+    display: flex;
+    justify-content: space-between;
+}
+
+#question5{
+    display: flex;
+    align-items: end;
+}
+
+#question6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#question7{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+}
+
+#question8{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#question9{
+    display: flex;
+    flex-direction: column;
+}
+
+#question10{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+
+#question11{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+#question12{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+#question13{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: end;
+}
+
+#question14{
+    display: flex;
+}
+
+#question14_yellow{
+    order: 1;
+}
+
+#question15{
+    display: flex;
+}
+
+#question15_red{
+    order: -5;
+}
+
+#question16{
+    display: flex;
+}
+
+#question16_yellow{
+    align-self: end;
+}
+
+#question17{
+    display: flex;
+}
+
+#question17_yellow{
+    order: 1;
+    align-self: end;
+}
+
+#question18{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#question19{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#question20{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+#question21{
+    display: flex;
+    align-content: start;
+}
+
+#questino22{
+    display: flex;
+    align-content: end;
+}
+
+#question23{
+    display: flex;
+    flex-direction: column-reverse;
+    align-content: center;
+}
+
+#question24{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    align-content: space-between;
+}
