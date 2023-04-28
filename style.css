@@ -1,3 +1,5 @@
+/* This is the answers for the Flexbox Froggy exercise on practity - Justin Scholtz */
+
 /* Question 1 */
 
 #question1{
@@ -5,25 +7,35 @@
     justify-content: end;
 }
 
+/* Question 2 */
+
 #question2{
     display: flex;
     justify-content: center;
 }
+
+/* Question 3 */
 
 #question3{
     display: flex;
     justify-content: space-around;
 }
 
+/* Question 4 */
+
 #question4{
     display: flex;
     justify-content: space-between;
 }
 
+/* Question 5 */
+
 #question5{
     display: flex;
     align-items: end;
 }
+
+/* Question 6 */
 
 #question6{
     display: flex;
@@ -31,21 +43,29 @@
     align-items: center;
 }
 
+/* Question 7 */
+
 #question7{
     display: flex;
     justify-content: space-around;
     align-items: end;
 }
 
+/* Question 8 */
+
 #question8{
     display: flex;
     flex-direction: row-reverse;
 }
 
+/* Question 9 */
+
 #question9{
     display: flex;
     flex-direction: column;
 }
+
+/* Question 10 */
 
 #question10{
     display: flex;
@@ -53,11 +73,15 @@
     justify-content: start;
 }
 
+/* Question 11 */
+
 #question11{
     display: flex;
     flex-direction: column;
     justify-content: end;
 }
+
+/* Question 12 */
 
 #question12{
     display: flex;
@@ -65,12 +89,16 @@
     justify-content: space-between;
 }
 
+/* Question 13 */
+
 #question13{
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
     align-items: end;
 }
+
+/* Question 14 */
 
 #question14{
     display: flex;
@@ -80,6 +108,8 @@
     order: 1;
 }
 
+/* Question 15 */
+
 #question15{
     display: flex;
 }
@@ -88,6 +118,8 @@
     order: -5;
 }
 
+/* Question 16 */
+
 #question16{
     display: flex;
 }
@@ -95,6 +127,8 @@
 #question16_yellow{
     align-self: end;
 }
+
+/* Question 17 */
 
 #question17{
     display: flex;
@@ -105,10 +139,14 @@
     align-self: end;
 }
 
+/* Question 18 */
+
 #question18{
     display: flex;
     flex-wrap: wrap;
 }
+
+/* Question 19 */
 
 #question19{
     display: flex;
@@ -116,26 +154,36 @@
     flex-wrap: wrap;
 }
 
+/* Question 20 */
+
 #question20{
     display: flex;
     flex-flow: column wrap;
 }
+
+/* Question 21 */
 
 #question21{
     display: flex;
     align-content: start;
 }
 
+/* Question 22 */
+
 #questino22{
     display: flex;
     align-content: end;
 }
+
+/* Question 23 */
 
 #question23{
     display: flex;
     flex-direction: column-reverse;
     align-content: center;
 }
+
+/* Question 24 */
 
 #question24{
     display: flex;
